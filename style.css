@@ -269,7 +269,7 @@ h1 {
 } 
 
 .border__animation:hover::before { 
-    animation: animate 2s linear forwards ; 
+    animation: animate 1s linear forwards ; 
 } 
 
 @keyframes animate { 
@@ -319,7 +319,7 @@ h1 {
 } 
 
 .border__animation:hover::after { 
-    animation: animates 2s linear forwards ; 
+    animation: animates 1s linear forwards ; 
 } 
 
 @keyframes animates { 
