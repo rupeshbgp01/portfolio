@@ -256,24 +256,7 @@ a {
   position: absolute;
   bottom: 2px;
 }
-.bottom_bg,.bottom_bg2,.bottom_bg3{
-  overflow: hidden;
-  width: 100%;
-  height: 60vh;
-  background: linear-gradient(to top right, rgba(176, 211, 224, 0.2),rgba(81, 120, 129, 0.205),rgba(33, 57, 61, 0.788));
-  position: absolute;
-  bottom: -40%;
-  border-radius: 0% 90% 0 0;
-}
-.bottom_bg2{
- bottom: -50%;
- border-radius: 0% 75% 0 0;
-}
-.bottom_bg3{
-  bottom: -55%;
-  right: 0%;
-  border-radius: 60% 100% 0 0%;
-}
+
 
 @media only screen and (min-width:550px) {
   .main__container {
